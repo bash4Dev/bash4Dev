@@ -16,14 +16,14 @@ I'm *Bashir Umar Idris*, an aspiring Frontend Engineer passionate about crafting
 - **CSS3** ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - **Shell** ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-- **React** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-- **Bootstrap** ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+<!-- **React** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)-->
+<!-- **Bootstrap** ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)-->
 - **Git** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 - **C** ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 - **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- **TypeScript** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<!-- **TypeScript** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)-->
 
-🌟 I'm always eager to explore new technologies and frameworks to enhance my development skills.
+🌟 I'm always eager to explore new technologies and frameworks to enhance my technological skills.
 
 <!--### *Projects*
 
@@ -48,3 +48,8 @@ I'm *Bashir Umar Idris*, an aspiring Frontend Engineer passionate about crafting
 ### *Happy Coding!*
 
 👨‍💻 Thank you for visiting my GitHub profile! Let's build something great together!
+
+
+[![Bashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bash4umr)](https://github.com/bash4umr/github-readme-stats)
+![GitHub Activity](https://img.shields.io/github/last-commit/bash4umr/alx-low_level_programming?style=flat-square)
+![Top Language](https://img.shields.io/github/languages/top/bash4umr/alx-low_level_programming?style=flat-square)
