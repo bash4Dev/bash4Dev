@@ -1,4 +1,4 @@
-## <h1 align="center">*Hi there!* 👋</h1>
+## <p align="center">*Hi there!* 👋</p>
 
 I'm *Bashir Umar Idris*, an aspiring Frontend Engineer passionate about crafting immersive and user-friendly web experiences.
 
@@ -50,9 +50,9 @@ I'm *Bashir Umar Idris*, an aspiring Frontend Engineer passionate about crafting
 👨‍💻 Thank you for visiting my GitHub profile! Let's build something great together!
 
 
-<!--| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bash4umr&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&show_icons=true" alt="Bashir's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bash4umr&langs_count=8&layout=compact&hide_border=true" alt="Bashir's GitHub stats"/> |-->
+<!--| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bash4umr&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&show_icons=true" alt="Bashir's GitHub stats" /> |-->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bash4umr&langs_count=8&layout=compact&hide_border=true" alt="Bashir's GitHub stats"/>
 
 <!--![GitHub Activity](https://img.shields.io/github/last-commit/bash4umr/alx-low_level_programming?style=flat-square)
 ![Top Language](https://img.shields.io/github/languages/top/bash4umr/alx-low_level_programming?style=flat-square)-->
-
-![Profile views](https://gpvc.arturio.dev/bash4umr)
