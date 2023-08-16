@@ -9,10 +9,11 @@
       <p>💻 I'm also excited to be a part of the ALX Software Engineering Program, as I am currently embarked on an exciting journey       through the Program. I'm glad to be learning from top-notch mentors and collaborating with talented developers.
       </p>
       <p>📫 Feel free to reach out to me via email at idrisbashirumr@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/feed/). I'm always open to new opportunities and conversations.</p>
+      <p>🌟 I'm always eager to explore new technologies and frameworks to enhance my technological skills.</p>
     </td> 
     <td>
-      <h3 align="left"><i>Skills and Technology</i></h3>
-      <p align="left">🚀 Here are some of the key skills and technologies I'm having a proficiency in: </p>
+      <h3 align="left"><i>Skills and<br>
+        Technology</i></h3>
       <p align="left">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -54,8 +55,6 @@
     <td>
        <a href="http://www.github.com/bash4dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bash4dev&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
-   
-<p>🌟 I'm always eager to explore new technologies and frameworks to enhance my technological skills.</p>
   </tr>
 </table>
 
