@@ -5,7 +5,9 @@
   <tr>
     <h3><i>About Me</i></h3>
     <td>
-      <p>💻 I'm excited to be a part of the ALX Software Engineering Program, as I am currently embarked on an exciting journey       through the Program. I'm glad to be learning from top-notch mentors and collaborating with talented developers.
+      <p>🌟 I have always been captivated by the endless possibilities that web development offers. I find joy in crafting beautiful and interactive user interfaces that not only look impressive but also deliver a seamless user experience. I'm currently honing my skills in HTML, CSS, and JavaScript, and I'm fascinated by the endless possibilities they offer.</p>
+### *Skills & Technologies*
+      <p>💻 I'm also excited to be a part of the ALX Software Engineering Program, as I am currently embarked on an exciting journey       through the Program. I'm glad to be learning from top-notch mentors and collaborating with talented developers.
       </p>
       <p>📫 Feel free to reach out to me via email at idrisbashirumr@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/feed/). I'm always open to new opportunities and conversations.</p>
     </td> 
@@ -48,10 +50,10 @@
        <a href="https://github.com/bash4umr"><img alt="Bashir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bash4umr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
     <td>
-       <a href="http://www.github.com/bash4umr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bash4umr&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+      <a href="https://github.com/bash4umr"><img alt="Bashir Umar Idris Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bash4umr&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
     <td>
-      <a href="https://github.com/bash4umr"><img alt="Bashir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bash4umr&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+       <a href="http://www.github.com/bash4umr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bash4umr&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
    
 <p>🌟 I'm always eager to explore new technologies and frameworks to enhance my technological skills.</p>
@@ -67,12 +69,6 @@
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bash4umr&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 <p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=bash4umr&label=Profile%20views&color=0e75b6&style=flat" alt="bash4umr" /> </p> -->
-
-
-<!-- ### *About Me*
-
-🌟 I have always been captivated by the endless possibilities that web development offers. I find joy in crafting beautiful and interactive user interfaces that not only look impressive but also deliver a seamless user experience. I'm currently honing my skills in HTML, CSS, and JavaScript, and I'm fascinated by the endless possibilities they offer.
-### *Skills & Technologies*
 
 <!--### *Projects*
 
