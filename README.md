@@ -46,13 +46,13 @@
 <table>
   <tr>
     <td>
-       <a href="https://github.com/bash4umr"><img alt="Bashir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bash4umr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+       <a href="https://github.com/bash4dev"><img alt="Bashir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bash4dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
     <td>
-      <a href="https://github.com/bash4umr"><img alt="Bashir Umar Idris Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bash4umr&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+      <a href="https://github.com/bash4dev"><img alt="Bashir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bash4dev&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
     <td>
-       <a href="http://www.github.com/bash4umr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bash4umr&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+       <a href="http://www.github.com/bash4dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bash4dev&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
    
 <p>🌟 I'm always eager to explore new technologies and frameworks to enhance my technological skills.</p>
@@ -67,7 +67,7 @@
   
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bash4umr&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
-<p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=bash4umr&label=Profile%20views&color=0e75b6&style=flat" alt="bash4umr" /> </p> -->
+<p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=bash4dev&label=Profile%20views&color=0e75b6&style=flat" alt="bash4dev" /> </p> -->
 
 <!--### *Projects*
 
