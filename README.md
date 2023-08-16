@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm <i>Bashir Umar Idris</i></h1>
-<p align="center">An aspiring Software Engineer from Nigeria, passionate about crafting immersive and user-friendly web experiences.</p>
+<h1 align="center">Hi, <i>there</i></i></h1>
+<p align="center">I am Bashir Umar Idris, an aspiring Software Engineer from Nigeria, passionate about crafting immersive and user-friendly web experiences.</p>
 
 <table>
   <tr>
