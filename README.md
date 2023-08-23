@@ -8,14 +8,14 @@
       <p>💻 I'm excited to be a part of the ALX Software Engineering Program, as I am currently embarked on an exciting journey       through the Program. I'm also glad to be learning from top-notch mentors and collaborating with talented developers.
       </p>
       <p>🌟 I'm always eager to explore new technologies and frameworks to enhance my technological skills.</p>
-      <p>📫 Feel free to reach out to me via email at idrisbashirumr@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/feed/). I'm always open to new opportunities and conversations.</p>
+      <p>📫 Feel free to reach out to me via email at <i>idrisbashirumr@gmail.com</i> or connect with me on <a href="https://www.linkedin.com/in/bashir-umar-idris-555164261/">LinkedIn</a>. I'm always open to new opportunities and conversations.</p>
       <p>⚡ Fun fact: I love watching police-crimal pursuit videos on YouTube</p>
     </td>
   </tr>
 </table>
 
 <table>
-  <h3><i>Tools & Languages</i></h3>
+  <h3><i>Tools & Technologies</i></h3>
   <tr>
     <td>
         <p align="center">
