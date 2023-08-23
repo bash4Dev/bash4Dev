@@ -11,6 +11,11 @@
       <p>📫 Feel free to reach out to me via email at idrisbashirumr@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/feed/). I'm always open to new opportunities and conversations.</p>
       <p>⚡ Fun fact: I love watching police-crimal pursuit videos on YouTube</p>
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td>
       <h3 align="left"><i>Tools & Languages</i></h3>
       <p align="left">
