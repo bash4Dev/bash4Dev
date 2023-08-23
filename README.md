@@ -14,36 +14,37 @@
 </table>
 
 <table>
-  <tr>
+  <h3><i>Tools & Technologies</i></h3>
+    <tr>
     <table>
       <tr>
-        <h3><i>Tools & Technologies</i></h3>
           <td>
-        <p align="center">
-         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-        <p align="center" >JavaScript</p>
-      </p>
-    </td>
-    <td>           
-      <p align="center">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-      </a>
-        <p align="center">TypeScript</p>
-      </p>
-    </td>
-     <td>           
-      <p align="center">
-       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-        <p align="center">Python</p>
-      </p>
-    </td>
-      <td>           
-      <p align="center">
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <p align="center">HTML</p>
-      </p>
-    </td>
-    <td>           
+            <p align="center">
+               <p align="center" >JavaScript</p>
+               <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+              </p>
+          </td>
+          <td>           
+            <p align="center">
+              <p align="center">TypeScript</p>
+              <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+            </p>
+          </td>
+          <td>           
+            <p align="center">
+              <p align="center">Python</p>
+             <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+            </p>
+          </td>
+      </tr>
+      <tr>
+          <td>           
+            <p align="center">
+              <p align="center">HTML</p>
+             <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+            </p>
+        </td>
+        <td>           
       <p align="center">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
         <p align="center">CSS</p>
@@ -65,7 +66,6 @@
         <p align="center">Linux</p>
       </p>
     </td>
-    
   </tr>
   </table>
   </tr>
