@@ -96,13 +96,6 @@
 
 ### *Happy Coding*
   👨‍💻 Thank you for visiting my GitHub profile! Let's build something great together!
-  
-<table>
-  <tr>
- <td> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bash4Dev&show_icons=true&locale=en&layout=compact" alt="Bashir" />&nbsp;</td>
-<td>  <img src="https://github-readme-stats.vercel.app/api?username=bash4Dev&show_icons=true&locale=en" alt="Bashir" /></td>
-  </tr>
-</table>
 
 <!--### *Projects*
 
