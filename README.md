@@ -9,7 +9,7 @@
       </p>
       <p>🌟 I'm always eager to explore new technologies and frameworks to enhance my technological skills.</p>
       <p>📫 Feel free to reach out to me via email at <i>idrisbashirumr@gmail.com</i> or connect with me on <a href="https://www.linkedin.com/in/bashir-umar-idris-555164261/">LinkedIn</a>. I'm always open to new opportunities and conversations.</p>
-      <p>⚡ Fun fact: I love watching police-crimal pursuit videos on YouTube</p>
+      <p>⚡ Fun fact: I love watching police-crimal pursuit videos on YouTube.</p>
     </td>
   </tr>
 </table>
